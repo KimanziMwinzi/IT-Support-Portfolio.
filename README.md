@@ -1,2 +1,6 @@
 # IT-Support-Portfolio.
-Welcome to my IT Support Portfolio! This repository showcases my work as an IT support specialist. Inside, you will find:  - Troubleshooting guides for common IT issues - Configuration steps for various systems and applications - Useful scripts for automation tasks - Documentation and manuals for clients and internal use 
+Welcome to my IT Support Portfolio! This repository showcases my work as an IT support specialist. 
+Inside, you will find:  
+- Troubleshooting guides for common IT issues
+- - Configuration steps for various systems and applications
+  
